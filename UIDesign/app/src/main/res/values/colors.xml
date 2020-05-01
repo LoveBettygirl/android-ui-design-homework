@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="PurpleBackground">#DBC7FD</color>
+    <color name="errorColor">#810000</color>
+    <color name="yesColor">#0C7500</color>
+    <color name="aboutColor">#FFABF7</color>
+    <color name="maleColor">#1296DB</color>
+    <color name="femaleColor">#D4237A</color>
+    <color name="likesColor">#D81E06</color>
+    <color name="PurpleColorPrimary">#6200EE</color>
+    <color name="PurpleColorPrimaryDark">#3700B3</color>
+    <color name="PurpleColorAccent">#9157E4</color>
+    <color name="RedColorPrimary">#8A0000</color>
+    <color name="RedColorPrimaryDark">#570000</color>
+    <color name="RedColorAccent">#E45757</color>
+    <color name="YellowColorPrimary">#C39408</color>
+    <color name="YellowColorPrimaryDark">#836305</color>
+    <color name="YellowColorAccent">#D18F0A</color>
+    <color name="GreenColorPrimary">#00854B</color>
+    <color name="GreenColorPrimaryDark">#005734</color>
+    <color name="GreenColorAccent">#03DA64</color>
+    <color name="PinkColorPrimary">#FB4ABA</color>
+    <color name="PinkColorPrimaryDark">#801855</color>
+    <color name="PinkColorAccent">#E854E1</color>
+    <color name="BlueColorPrimary">#048CCA</color>
+    <color name="BlueColorPrimaryDark">#0162AF</color>
+    <color name="BlueColorAccent">#00BCD4</color>
+    <color name="PinkBackground">#FDC7F1</color>
+    <color name="YellowBackground">#FDF4C7</color>
+    <color name="GreenBackground">#8BFFC9</color>
+    <color name="RedBackground">#FDC7C7</color>
+    <color name="BlueBackground">#C7FDFB</color>
+    <color name="gray">#6C6C6C</color>
+</resources>

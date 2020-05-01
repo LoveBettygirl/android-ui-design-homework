@@ -1,0 +1,53 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="PurpleTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/PurpleColorAccent</item>
+        <item name="android:windowBackground">@color/PurpleBackground</item>
+    </style>
+    <style name="RedTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/RedColorPrimary</item>
+        <item name="colorPrimaryDark">@color/RedColorPrimaryDark</item>
+        <item name="colorAccent">@color/RedColorAccent</item>
+        <item name="android:windowBackground">@color/RedBackground</item>
+    </style>
+    <style name="YellowTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/YellowColorPrimary</item>
+        <item name="colorPrimaryDark">@color/YellowColorPrimaryDark</item>
+        <item name="colorAccent">@color/YellowColorAccent</item>
+        <item name="android:windowBackground">@color/YellowBackground</item>
+    </style>
+    <style name="GreenTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/GreenColorPrimary</item>
+        <item name="colorPrimaryDark">@color/GreenColorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/GreenBackground</item>
+    </style>
+    <style name="PinkTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/PinkColorPrimary</item>
+        <item name="colorPrimaryDark">@color/PinkColorPrimaryDark</item>
+        <item name="colorAccent">@color/PinkColorAccent</item>
+        <item name="android:windowBackground">@color/PinkBackground</item>
+    </style>
+    <style name="BlueTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/BlueColorPrimary</item>
+        <item name="colorPrimaryDark">@color/BlueColorPrimaryDark</item>
+        <item name="colorAccent">@color/BlueColorAccent</item>
+        <item name="android:windowBackground">@color/BlueBackground</item>
+    </style>
+
+</resources>
